@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi there!
 
-<!--
-**jahongir2201/jahongir2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jahongir, a passionate learner interested in Data Analysis and software development.
+I enjoy turning data into insights and building useful applications.
 
-Here are some ideas to get you started:
+🔭 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Data Analysis (Pandas, NumPy, Matplotlib, SQL)
+
+🧠 Problem-solving & algorithms
+
+🌐 Backend basics
+
+💡 Tech Stack
+
+🐍 Python
+
+☕ Java
+
+📱 Kotlin
+
+➕ C++
+
+🎯 Interests
+
+♟ Chess
+
+🏓 Ping Pong
+
+📚 Learning new tech skills
+
+📫 Contact Me
+
+Email: abdurahimovjahongir399@gmail.com
+
+Phone: +998 88 139 23 24
+
+⚡ Fun Fact
+
+I love combining logic and creativity — whether it’s through coding, games, or learning something new every day.
